@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f63e289-1ded-46cf-82ca-f11534b3d50e" name="Changes" comment="" />
+    <list default="true" id="7f63e289-1ded-46cf-82ca-f11534b3d50e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/IllegalTypeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/IllegalTypeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortingAlgorithms/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortingAlgorithms/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortingAlgorithms/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortingAlgorithms/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortingAlgorithms/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortingAlgorithms/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortingAlgorithms/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortingAlgorithms/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/PrintingUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/PrintingUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2edd3lWa0DzOM2UH78XayjFOpIE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +40,50 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/krpia/OneDrive/Dokumenty/SortingAlgorithms"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krpia\OneDrive\Pulpit\zajavka materialy\w20\SortingAlgorithms\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krpia\OneDrive\Pulpit\zajavka materialy\w20\SortingAlgorithms\src\src\resources" />
+      <recent name="C:\Users\krpia\OneDrive\Pulpit\zajavka materialy\w20\SortingAlgorithms\src.resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="src.sortingAlgorithms" />
+      <recent name="src.util" />
+      <recent name="src.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SortingAlgorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="SortingAlgorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +92,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712238194092</updated>
+      <workItem from="1712238195464" duration="2693000" />
+      <workItem from="1712260428316" duration="3135000" />
+      <workItem from="1712315599536" duration="15890000" />
+      <workItem from="1712654850559" duration="2869000" />
+      <workItem from="1712660856847" duration="208000" />
+      <workItem from="1712920067440" duration="621000" />
+      <workItem from="1712999329903" duration="9000" />
+      <workItem from="1713108913658" duration="14776000" />
+      <workItem from="1713534648713" duration="974000" />
+      <workItem from="1713544683065" duration="42000" />
+      <workItem from="1713871055528" duration="7954000" />
+      <workItem from="1715060752553" duration="670000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

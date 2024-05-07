@@ -1,9 +1,7 @@
-package src.sortingAlgorithms;
-
-import java.util.Comparator;
+package sortingAlgorithms;
 
 public class InsertionSort<T extends Comparable<T>> {
-    public void insertionSort(T[] arr) {
+    public void sort(T[] arr) {
         for (int i = 1; i < arr.length; i++) {
             T key = arr[i];
             int j = i;

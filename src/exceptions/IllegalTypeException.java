@@ -1,4 +1,4 @@
-package src.exceptions;
+package exceptions;
 
 public class IllegalTypeException extends RuntimeException {
     public <T> IllegalTypeException(T type) {
